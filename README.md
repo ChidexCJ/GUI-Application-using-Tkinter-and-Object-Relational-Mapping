@@ -21,7 +21,7 @@ pip install the following
 ### .py Database file
 1. import dependencies (pymsql and configparser)
    * #### *pymysql* - a python library for connecting to MYSQL relational database.
-   * #### *configparser* - python library for reading *.ini* files. *.ini* files store program-dependent data in a key and value format.
+   * #### *configparser* - python library for reading *.ini* files. (*.ini* files store program-dependent data in a key and value format).
 2. Using Object Oriented programming, create a class for database encapsulating methods for *connecting, inserting, fetching, updating, removing and deleting operations*.
 ### .py Database Test file
 1. Create a .py test file, then import unittest and .py database file into the script.
