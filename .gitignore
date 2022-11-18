@@ -1,0 +1,4 @@
+#hide config file
+*.ini
+build/
+dist/
